@@ -87,6 +87,7 @@ namespace IMLwaterlevel {
             trig_section += 1
             touch_val >>= 1
         }
+        basic.pause(100)
         return trig_section * 5
     }
 }
