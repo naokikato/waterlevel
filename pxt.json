@@ -1,5 +1,5 @@
 {
-    "name": "題名未設定",
+    "name": "waterlevel",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,11 +16,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.28",
+        "target": "7.0.42",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
